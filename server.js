@@ -11,3 +11,4 @@ server.listen(port, () => {
     //eslint-desable-next line no console
     console.log(`JSON Server está funcionando na porta ${port}`);
 });
+
